@@ -1,0 +1,90 @@
+body
+{
+    background-color: #f0f0f5;
+    color: #555;
+    font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+
+.container
+{
+    width: 80%;
+	margin: auto;
+	overflow: auto;
+}
+
+#Top-Header
+{
+    background-color:#b366ff;
+    color: #fff;
+    text-align: center;
+}
+
+#links
+{
+    background-color: #ffb3ff;
+}
+
+#links a {
+	color:#404040;
+    text-align: center;
+    margin-right: 170px;
+}
+#links li {
+	display: inline;
+}
+
+#Me {
+	background-color: #ccccff;
+	background-position: center;
+    text-align: center;
+
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 1px grey solid;
+    border-radius: 3px;
+    
+}
+
+#Project
+{
+    background-color: #ccccff;
+    background-position: center;
+    text-align: center;
+    
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 1px grey solid;
+    border-radius: 3px;
+}
+
+#skill
+{
+    background-color: #ccccff;
+    background-position: center;
+    text-align: center;
+
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 1px grey solid;
+    border-radius: 3px;
+}
+
+#contact
+{
+    background-color: #ccccff;
+    background-position: center;
+    text-align: center;
+
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 1px grey solid;
+    border-radius: 3px;
+}
+
+#main-footer {
+	text-align: center;
+	padding: 10px;
+	margin-top: 50px;
+}
